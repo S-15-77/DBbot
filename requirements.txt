@@ -1,0 +1,13 @@
+langchain
+openai
+pymysql
+sqlalchemy
+langchain_experimental
+python-dotenv
+streamlit
+pydantic
+chromadb
+pandas
+psycopg2
+matplotlib
+trubrics[streamlit]
