@@ -1,4 +1,4 @@
-# Databot
+# DBbot
 Databot:  virtual assistant for seamless natural language to SQL query translation. With Databot, interact with databases effortlessly, bridging the gap between human language and database commands. Harnessing the capabilities of OpenAI's language models, Databot ensures accuracy and efficiency in your database operations.
 ## How to set up
 - Create a virtual environment
