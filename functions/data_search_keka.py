@@ -33,7 +33,7 @@ OPENAI_API_KEY=os.getenv("OPENAI_API_KEY")
 llm = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY, model_name='gpt-3.5-turbo')
 
 def connect_db():
-    db = SQLDatabase.from_uri("postgresql+psycopg2://readuserkeka:DK%40123@192.168.1.74:5432/keka?options=--search_path%3Ddwh")
+    db = SQLDatabase.from_uri("<DB>")
     return db
 
 def generate_query(db,question):
